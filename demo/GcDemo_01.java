@@ -24,9 +24,5 @@ public class GcDemo_01 {
 		 System.gc();
 
 
-
-
-
-
 	 }
 }
