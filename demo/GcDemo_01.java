@@ -22,5 +22,11 @@ public class GcDemo_01 {
 		 objB = null;
 		 
 		 System.gc();
+
+
+
+
+
+
 	 }
 }
